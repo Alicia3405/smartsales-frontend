@@ -59,7 +59,7 @@ const Sidebar: React.FC = () => {
             <Link href="/dashboard/inventory" className="block px-4 py-2 rounded-md hover:bg-[#009688]">
               Inventario
             </Link>
-            <Link href="/dashboard/customers" className="block px-4 py-2 rounded-md hover:bg-[#009688]">
+            <Link href="/dashboard/users" className="block px-4 py-2 rounded-md hover:bg-[#009688]">
               Usuarios
             </Link>
           </>
